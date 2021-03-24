@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T06:00:53.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="0VyXfiaPj-c5aUrbmeL-" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T06:04:02.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="Ogwnln0pC__Al0n5lw5J" version="14.5.1" type="github">
   <diagram id="MJR66UyUv7xJhzFpMSsS" name="Page-1">
     <mxGraphModel dx="2066" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,13 +17,13 @@
           <mxGeometry x="600" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NAq1_VTEs5BF6OpYtz93-12" value="OP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffffff;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="397" y="100" width="70" height="35" as="geometry" />
+          <mxGeometry x="260" y="100" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NAq1_VTEs5BF6OpYtz93-13" value="CDP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffffff;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="713" y="100" width="50" height="35" as="geometry" />
+          <mxGeometry x="440" y="100" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NAq1_VTEs5BF6OpYtz93-14" value="MA" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#ffffff;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="100" width="70" height="35" as="geometry" />
+          <mxGeometry x="585" y="100" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NAq1_VTEs5BF6OpYtz93-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="960" width="380" height="170" as="geometry" />
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="Ph2IGxBi6Td_Hl4KfLrK-10" value="com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph2IGxBi6Td_Hl4KfLrK-11" value="学习平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;flipH=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="882" y="100" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph2IGxBi6Td_Hl4KfLrK-12" value="博客中心" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fff2cc;flipH=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="980" y="100" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
